@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<plist version="1.0">
+<dict>
+	<key>defender</key>
+	<string>防御者\n增加的武器的攻击力和速度\n当前攻击力和速度:\n下一等级攻击力和速度:</string>
+	<key>cityWall</key>
+	<string>主城\n增加主城的气血\n当前主城气血：\n下一等级气血：</string>
+	<key>magicTow</key>
+	<string>魔法塔\n增加魔法塔的魔法\n当前魔法塔魔法：\n下一等级魔法塔魔法：</string>	
+</dict>
+</plist>
